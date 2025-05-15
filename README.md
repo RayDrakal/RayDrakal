@@ -4,7 +4,7 @@
 ### BOJ Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=raydrakal)](https://solved.ac/raydrakal)
 
-### Graduate Project
+### Graduation work
 - Unreal Engine 5 :
 [ChosunGround](https://youtu.be/tDRVpuBhdIs?si=zmZB95DtbicfBT_X)
 
